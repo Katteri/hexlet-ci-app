@@ -1,3 +1,4 @@
+[![run-app](https://github.com/Katteri/hexlet-ci-app/actions/workflows/run-app.yml/badge.svg)](https://github.com/Katteri/hexlet-ci-app/actions/workflows/run-app.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
